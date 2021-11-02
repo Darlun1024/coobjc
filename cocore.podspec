@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "mycocore"
-  s.version      = "1.2.7"
+  s.version      = "1.2.8"
   s.summary      = "coobjc's core implement"
 
   s.description  = <<-DESC
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
   s.osx.deployment_target = '10.10'
 
-  s.source =  { :git => "https://github.com/Darlun1024/coobjc.git", :tag => '1.2.7' } 
+  s.source =  { :git => "https://github.com/Darlun1024/coobjc.git", :tag => '1.2.8' } 
   s.source_files = 'cocore/*.{h,m,s,c,mm}'
   s.requires_arc = 'cocore/*.m'
 
