@@ -24,5 +24,4 @@ Pod::Spec.new do |s|
   s.source_files = 'coobjc/**/*.{h,m}'
   s.requires_arc = ['coobjc/co/*.m', 'coobjc/generator/*.m', 'coobjc/actor/*.m', 'coobjc/promise/*.m']
 
-  s.dependency 'mycocore', '~> 1.2.7', :git => "https://github.com/Darlun1024/coobjc.git"
 end
