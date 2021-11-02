@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "mycoobjc"
+  s.name         = "coobjc"
   s.version      = "1.2.8"
   s.summary      = "A coroutine framework for Objective-C"
 
