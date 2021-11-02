@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "mycocore"
+  s.name         = "cocore"
   s.version      = "1.2.8"
   s.summary      = "coobjc's core implement"
 
